@@ -16,7 +16,7 @@ Group project: How is interaction with AI companions related to users' psycholog
 
 ## How we work
 
-1. Open your notebook in Google Colab: *File → Open notebook → GitHub tab* → paste this repo's URL.
+1. Open your notebook in Google Colab: *File → Open notebook → GitHub tab* → paste this repo's URL. Or if you are working with VS Code etc. the usual way.
 2. Only edit **your own** notebook. Questions about someone else's: message them.
 3. Before saving: *Runtime → Restart and run all* (must run top to bottom without errors).
 4. Save: *File → Save a copy in GitHub* → this repo, same file path, short commit message.
