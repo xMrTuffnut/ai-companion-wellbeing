@@ -8,7 +8,7 @@ Group project: How is interaction with AI companions related to users' psycholog
 
 | Notebook | Topic | Owner |
 |---|---|---|
-| `notebooks/01_cleaning.ipynb` | Preprocessing, creates `data/clean.csv` | Person A |
+| `notebooks/01_cleaning.ipynb` | Preprocessing, creates `data/clean.csv` | Claas |
 | `notebooks/02_rq1_companion_vs_others.ipynb` | RQ1: companion users vs. others (t-test) | Person B |
 | `notebooks/03_rq2_intensity.ipynb` | RQ2: use intensity and well-being (correlation) | Person C |
 | `notebooks/04_rq3_disclosure_network.ipynb` | RQ3: self-disclosure, social network (regression) | Person D |
